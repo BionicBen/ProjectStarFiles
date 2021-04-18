@@ -1,1 +1,1 @@
-Project Star pog
+Better Astral Launcher in C#
