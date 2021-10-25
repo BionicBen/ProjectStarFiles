@@ -1,1 +1,1 @@
-Better Astral Launcher in C#
+File repository for Project Star launcher (Minecraft Bedrock Edition).
