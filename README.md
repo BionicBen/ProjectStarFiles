@@ -1,2 +1,2 @@
 # Project Star Files
-File repository for [Project Star Launcher](https://github.com/BionicBen/ProjectStarLauncher).
+File repository for [Project Star](https://github.com/BionicBen/ProjectStarLauncher).
